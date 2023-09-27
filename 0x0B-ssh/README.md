@@ -53,7 +53,7 @@ The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 The second line of all your Bash scripts should be a comment explaining what is the script doing
 Your servers
 Name	Username	IP	State	
-299378-web-01	ubuntu	54.82.120.203	running	
+299378-web-01	ubuntu	100.26.166.45	running	
 Actions Toggle Dropdown
 
 |
